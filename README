@@ -1,12 +1,11 @@
-hw01: NDC to RGB Shader
+NDC to RGB Shader
 
 Tristan English
 CSCI4239 Spring 2023
 
 Takes points in NDC and converts to RGB colors
 
-Scene setup, cube function, and CSCIx239.h library used from ex01
-
+Scene setup, cube function, and CSCIx239.h library sourced from Willem A. (Vlakkies) Schreuder
 Approximate time spent: 4 hours
 
 Key bindings
